@@ -1,0 +1,2 @@
+E:\Unity Projects\Bio_Sword\Bio_Sword\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\Unity Projects\Bio_Sword\Bio_Sword\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

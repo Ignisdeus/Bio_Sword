@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Sword
+  - Wall
+  - Expl
+  - Platfrom
+  - Ice
+  - Ice_B
+  - GM
+  - Fire
+  - Ice_C
+  - dest
+  - rocket
+  - Fire_G
+  - IceCannon
+  - FireCannon
+  - Boss
+  - Boss_C
+  - Audio
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Sword
+  - Obs
+  - Effect
+  - Player
+  - Camera
+  - IceCannon
+  - FireCannon
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 353582693
+    locked: 0
+  - name: Player
+    uniqueID: 2849054973
+    locked: 0
+  - name: ForGround
+    uniqueID: 2072068301
+    locked: 0
